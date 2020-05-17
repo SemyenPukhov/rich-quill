@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rich-quill/static/css/main.c8864c1e.chunk.css",
+    "main.js": "/rich-quill/static/js/main.bc39c9ae.chunk.js",
+    "main.js.map": "/rich-quill/static/js/main.bc39c9ae.chunk.js.map",
+    "runtime-main.js": "/rich-quill/static/js/runtime-main.58c4d33a.js",
+    "runtime-main.js.map": "/rich-quill/static/js/runtime-main.58c4d33a.js.map",
+    "static/js/2.5428e614.chunk.js": "/rich-quill/static/js/2.5428e614.chunk.js",
+    "static/js/2.5428e614.chunk.js.map": "/rich-quill/static/js/2.5428e614.chunk.js.map",
+    "index.html": "/rich-quill/index.html",
+    "precache-manifest.c0dd2620fd488f819aebe0618a14fade.js": "/rich-quill/precache-manifest.c0dd2620fd488f819aebe0618a14fade.js",
+    "service-worker.js": "/rich-quill/service-worker.js",
+    "static/css/main.c8864c1e.chunk.css.map": "/rich-quill/static/css/main.c8864c1e.chunk.css.map",
+    "static/js/2.5428e614.chunk.js.LICENSE.txt": "/rich-quill/static/js/2.5428e614.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58c4d33a.js",
+    "static/js/2.5428e614.chunk.js",
+    "static/css/main.c8864c1e.chunk.css",
+    "static/js/main.bc39c9ae.chunk.js"
+  ]
+}
