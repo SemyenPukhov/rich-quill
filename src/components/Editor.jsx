@@ -2,6 +2,7 @@ import React, { useRef } from "react";
 import Quill from "quill";
 import QwilShortcuts from "../ShortcutsModule";
 import "../quill.css";
+
 function Editor(props) {
   const editorRef = useRef();
 
